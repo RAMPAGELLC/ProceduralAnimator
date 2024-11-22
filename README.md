@@ -223,8 +223,6 @@ To add a new animation type:
 - **[FastSignal](https://github.com/fastrun1/FastSignal)**: For managing animation events.
 - **ProceduralAnimators' Animation Modules**: Custom modules for each animation type.
 
-Here is the updated part for the `README.md` with the added sections for **Contributing**, **Issues**, and **License**:
-
 ---
 
 ### Contributing
